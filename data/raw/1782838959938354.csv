@@ -1,0 +1,1093 @@
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Total"
+"measure    :","Claimant count"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",481755,10,79830,280,79550,37285,288230,70235,65780,57065,50290,44855,113685,43340,36975,27740,5630
+"February 2021",506800,15,81635,300,81335,37850,304910,73510,69430,60775,53495,47700,120240,45915,39170,29305,5855
+"March 2021",509070,15,81765,290,81475,38240,305790,73240,69475,61130,53850,48100,121500,46205,39650,29705,5935
+"April 2021",504265,15,80280,270,80005,37735,302635,71760,68525,60795,53600,47955,121335,45950,39550,29865,5970
+"May 2021",476050,15,74865,265,74600,35580,284975,67070,64370,57260,50905,45375,116195,43585,37925,28735,5950
+"June 2021",440095,10,68885,245,68640,33180,262235,61895,59225,52460,46785,41865,108970,40370,35525,27295,5780
+"July 2021",431135,10,64910,205,64705,31330,258420,59390,58590,52250,46685,41505,107800,39820,35210,27035,5730
+"August 2021",411035,10,60480,195,60285,29355,247100,56355,56045,50225,44915,39560,103450,38095,33730,26060,5565
+"September 2021",387505,5,56410,190,56215,27255,233000,53110,52710,47375,42575,37230,98090,35715,32105,24850,5425
+"October 2021",372890,5,52085,200,51885,25155,225950,50870,51035,46295,41580,36170,94855,34390,31055,24085,5325
+"November 2021",356170,5,48825,220,48605,23650,215825,47690,48880,44660,39895,34700,91515,32950,29895,23510,5160
+"December 2021",342080,5,45365,205,45155,21940,207830,45280,46920,43415,38715,33500,88885,31870,28955,22975,5085
+"January 2022",330310,5,42405,180,42225,20320,201240,43540,45265,42145,37655,32635,86660,31005,28190,22390,5075
+"February 2022",329280,5,42050,175,41870,20005,201545,43750,45510,42090,37730,32465,85680,30725,27780,22265,4915
+"March 2022",315615,5,40830,155,40680,19440,192315,41875,43560,39980,35980,30925,82465,29495,26740,21480,4745
+"April 2022",301325,5,38740,175,38565,18550,183115,39905,41285,38170,34300,29455,79465,28155,25775,20920,4620
+"May 2022",294425,5,37380,170,37205,17780,179155,38780,40145,37595,33645,28990,77890,27485,25305,20490,4610
+"June 2022",288725,0,37050,150,36900,17650,175465,37755,39325,36990,33165,28225,76210,26850,24580,20195,4590
+"July 2022",281180,0,37365,160,37205,17955,169990,36545,38090,35840,32265,27255,73825,25910,23815,19625,4475
+"August 2022",279570,0,38230,170,38060,18320,168545,36290,37800,35575,31945,26935,72790,25520,23355,19480,4435
+"September 2022",280875,0,38945,160,38785,18480,169605,36425,37830,36015,32260,27080,72320,25470,23145,19285,4420
+"October 2022",278680,0,39295,145,39150,18745,168020,35900,37405,35640,32175,26900,71365,25070,22760,19115,4425
+"November 2022",279760,0,39750,150,39600,19135,168200,35870,37330,35805,32085,27110,71810,25175,22790,19390,4455
+"December 2022",280515,0,39345,145,39200,18970,168890,35870,37280,36120,32400,27225,72275,25275,22895,19495,4610
+"January 2023",275385,0,38105,150,37960,18240,166330,35430,36675,35675,31805,26750,70945,24755,22475,19050,4665
+"February 2023",279790,0,38895,145,38750,18670,169835,36310,37490,36455,32420,27165,71060,24815,22500,19120,4620
+"March 2023",284745,0,39655,130,39525,19140,172685,36990,37935,36910,33305,27545,72400,25445,22870,19390,4690
+"April 2023",291385,5,39920,130,39795,19235,177250,37480,38845,38165,34305,28460,74210,26130,23485,19770,4820
+"May 2023",285085,5,39250,145,39110,19040,173060,36860,38005,37010,33395,27790,72770,25475,23095,19440,4760
+"June 2023",289565,5,39660,150,39515,19195,176435,37410,38665,37840,34180,28340,73460,25765,23285,19610,4800
+"July 2023",293980,5,40615,135,40475,19790,178940,37875,38865,38310,34995,28895,74425,26185,23515,19900,4830
+"August 2023",291805,5,41320,150,41175,20230,176755,37735,38680,37720,34225,28395,73725,25755,23460,19725,4785
+"September 2023",295780,5,41690,145,41545,20335,179665,38270,38915,38495,34945,29035,74425,26070,23670,19740,4940
+"October 2023",296780,0,42495,145,42350,20995,179975,38435,38940,38460,35130,29005,74305,26185,23515,19685,4920
+"November 2023",295990,0,43155,160,42995,21605,178910,38305,38720,38240,34855,28795,73920,25955,23390,19675,4900
+"December 2023",297870,0,43165,155,43010,21565,180855,38480,39070,38830,35400,29075,73850,25950,23405,19600,4890
+"January 2024",298085,0,42900,160,42735,21320,180855,38605,38905,38845,35350,29145,74330,26145,23450,19755,4980
+"February 2024",306900,0,44015,155,43860,21755,186705,39870,39690,39985,36660,30500,76180,27030,24075,20055,5020
+"March 2024",306840,0,44705,150,44555,22240,185990,40040,39460,39630,36390,30465,76140,26990,24085,20130,4935
+"April 2024",303840,5,44250,140,44110,22095,183980,39505,38755,39245,36100,30370,75605,26770,23900,20020,4915
+"May 2024",310260,5,44220,140,44080,22030,188490,39650,39390,40295,37575,31575,77545,27780,24350,20455,4960
+"June 2024",318815,5,44575,135,44440,22315,194050,39790,39950,41930,39170,33215,80190,28885,25235,20935,5130
+"July 2024",354275,5,46240,120,46120,23205,218135,41850,43585,47760,45830,39105,89900,33410,28080,22860,5545
+"August 2024",356725,5,47135,125,47015,23635,218620,42010,43270,47680,45995,39655,90965,33895,28355,23110,5605
+
+
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Total"
+"measure    :","Claimants as a proportion of residents aged 16-64"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",8.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2021",8.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2021",8.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2021",8.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2021",7.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2021",7.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2021",7.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2021",6.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2021",6.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2021",6.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2021",5.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2021",5.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2022",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2022",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2022",5.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2022",5.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2022",4.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2022",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2023",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2023",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2023",4.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2023",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2023",4.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2023",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2023",4.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2023",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2023",4.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2023",4.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2023",4.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2023",4.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2024",4.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2024",5.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2024",5.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2024",5.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2024",5.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2024",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2024",5.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2024",5.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+
+
+"-","These figures are missing."
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Total"
+"measure    :","Claimants as a proportion of economically active residents aged 16+"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",9.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2021",10.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2021",10.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2021",10.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2021",9.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2021",8.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2021",8.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2021",8.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2021",7.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2021",7.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2021",7.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2021",6.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2022",6.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2022",6.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2022",6.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2022",6.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2022",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2022",5.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2022",5.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2022",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2022",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2022",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2022",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2022",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2023",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2023",5.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2023",5.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2023",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2023",5.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2023",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2023",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2023",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2023",5.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2023",5.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2023",5.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2023",5.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2024",5.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2024",6.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2024",6.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2024",6.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2024",6.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2024",6.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2024",7.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2024",7.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+
+
+"-","These figures are missing."
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Total"
+"measure    :","Claimants as a proportion of the workforce"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",7.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2021",7.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2021",7.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2021",7.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2021",7.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2021",6.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2021",6.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2021",6.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2021",6.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2021",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2021",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2021",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2022",5.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2022",5.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2022",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2022",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2022",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2022",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2022",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2022",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2022",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2022",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2022",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2023",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2023",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2023",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2023",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2023",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2023",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2023",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2023",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2023",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2023",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2023",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2023",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2024",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2024",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2024",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2024",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2024",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2024",4.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2024",5.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2024",5.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+
+
+"-","These figures are missing."
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Male"
+"measure    :","Claimant count"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",271970,5,46890,120,46770,22335,161465,40705,37545,31795,27285,24135,63605,23945,20645,15685,3330
+"February 2021",286620,10,48015,125,47890,22755,171165,42620,39725,33975,29110,25735,67430,25440,21915,16580,3495
+"March 2021",288135,10,48350,120,48230,23050,171675,42670,39730,34085,29205,25985,68100,25565,22250,16775,3510
+"April 2021",285980,10,47780,120,47660,22840,170220,41985,39325,33920,29100,25890,67970,25365,22160,16875,3570
+"May 2021",270060,10,45060,110,44950,21780,160075,39445,36890,31825,27570,24350,64920,23950,21240,16155,3575
+"June 2021",249520,5,41890,105,41785,20485,147125,36525,33895,29055,25285,22365,60500,22060,19705,15300,3435
+"July 2021",244290,5,39595,80,39515,19300,144780,34910,33565,28955,25245,22105,59910,21760,19570,15175,3410
+"August 2021",232150,5,36825,70,36755,18040,137835,33105,31975,27730,24140,20890,57485,20875,18700,14580,3330
+"September 2021",217000,0,34325,75,34250,16845,128675,30955,29865,25825,22615,19415,53995,19345,17645,13770,3240
+"October 2021",209065,0,32070,85,31985,15740,124575,29710,28765,25115,22075,18910,52415,18740,17115,13370,3195
+"November 2021",200445,0,30125,90,30035,14875,119695,28075,27670,24345,21300,18300,50620,18005,16520,13005,3090
+"December 2021",193195,0,28230,90,28140,13890,115770,26800,26620,23790,20795,17765,49195,17490,15965,12690,3050
+"January 2022",186635,0,26480,85,26395,12920,112080,25765,25755,23015,20230,17315,48070,17025,15640,12360,3045
+"February 2022",185660,5,26105,85,26025,12605,111990,25865,25785,22960,20230,17155,47560,16875,15430,12315,2945
+"March 2022",177780,5,25480,75,25405,12275,106665,24910,24610,21675,19130,16335,45635,16115,14855,11820,2840
+"April 2022",170670,0,24380,80,24300,11785,102190,23795,23555,20830,18330,15680,44100,15440,14360,11520,2785
+"May 2022",166355,0,23560,75,23485,11300,99670,23115,22755,20500,17935,15365,43125,15070,14020,11270,2765
+"June 2022",162920,0,23365,70,23295,11265,97400,22580,22235,20040,17590,14960,42155,14725,13635,11040,2755
+"July 2022",158415,0,23365,70,23295,11345,94125,21820,21555,19300,17065,14390,40925,14325,13185,10745,2665
+"August 2022",156765,0,23650,75,23580,11445,92965,21670,21320,19070,16820,14085,40150,14010,12880,10620,2635
+"September 2022",156365,0,23885,75,23810,11460,92680,21485,21160,19105,16820,14110,39800,13850,12790,10500,2660
+"October 2022",154775,0,24075,55,24020,11565,91385,21255,20780,18790,16600,13955,39315,13620,12645,10405,2650
+"November 2022",154580,0,24310,50,24260,11760,90905,21170,20575,18760,16460,13945,39365,13555,12630,10520,2665
+"December 2022",154165,0,24010,55,23955,11610,90580,21015,20400,18795,16445,13925,39575,13590,12635,10575,2780
+"January 2023",152225,0,23310,60,23250,11180,89870,20860,20195,18660,16350,13800,39045,13355,12515,10355,2825
+"February 2023",154695,0,23835,70,23770,11485,91590,21315,20585,19055,16595,14035,39265,13500,12485,10465,2815
+"March 2023",155915,0,24340,60,24280,11805,91940,21530,20610,19060,16805,13935,39635,13605,12630,10510,2895
+"April 2023",157220,0,24520,55,24465,11925,92545,21635,20640,19240,16900,14130,40155,13740,12820,10615,2980
+"May 2023",154840,0,24195,60,24135,11805,91005,21330,20330,18850,16585,13910,39635,13475,12730,10475,2950
+"June 2023",157085,0,24375,60,24315,11900,92755,21680,20700,19250,16890,14245,39950,13575,12875,10525,2975
+"July 2023",158210,0,24860,60,24800,12245,93220,21845,20715,19255,17165,14240,40130,13660,12880,10590,3000
+"August 2023",157185,0,25265,65,25195,12505,92240,21855,20640,18950,16815,13980,39680,13435,12770,10515,2965
+"September 2023",157920,5,25390,70,25320,12525,92690,21825,20590,19105,17015,14150,39840,13400,12810,10550,3075
+"October 2023",158580,0,25955,65,25890,12950,92855,22050,20695,19010,17030,14075,39765,13470,12710,10515,3075
+"November 2023",158940,0,26540,75,26465,13330,92735,22110,20680,18940,16965,14035,39665,13410,12690,10500,3065
+"December 2023",160380,0,26740,70,26670,13375,93785,22300,20870,19205,17245,14165,39850,13450,12790,10545,3065
+"January 2024",161560,0,26765,70,26695,13355,94530,22545,20965,19400,17345,14280,40260,13580,12910,10650,3125
+"February 2024",166565,0,27420,70,27350,13610,97835,23350,21510,19995,18035,14950,41310,14040,13245,10875,3150
+"March 2024",166860,0,27810,60,27745,13855,97465,23450,21415,19840,17780,14975,41585,14140,13310,11050,3085
+"April 2024",165545,5,27660,60,27600,13835,96390,23155,21005,19690,17625,14915,41490,14065,13310,11005,3110
+"May 2024",168020,0,27590,70,27520,13800,97970,23270,21185,20110,18090,15315,42455,14530,13490,11290,3145
+"June 2024",171060,0,27775,70,27700,13985,99610,23325,21385,20485,18525,15890,43675,14980,13925,11495,3275
+"July 2024",183350,0,28605,65,28540,14410,107205,24215,22650,22195,20370,17775,47540,16580,15040,12410,3510
+"August 2024",183530,5,29075,70,29005,14615,106560,24260,22460,21880,20120,17845,47890,16620,15165,12555,3550
+
+
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Male"
+"measure    :","Claimants as a proportion of residents aged 16-64"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",9.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2021",9.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2021",9.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2021",9.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2021",9.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2021",8.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2021",8.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2021",7.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2021",7.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2021",7.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2021",6.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2021",6.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2022",6.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2022",6.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2022",6.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2022",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2022",5.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2022",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2022",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2022",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2022",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2022",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2022",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2022",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2023",5.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2023",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2023",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2023",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2023",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2023",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2023",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2023",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2023",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2023",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2023",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2023",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2024",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2024",5.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2024",5.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2024",5.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2024",5.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2024",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2024",6.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2024",6.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+
+
+"-","These figures are missing."
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Male"
+"measure    :","Claimants as a proportion of economically active residents aged 16+"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+
+
+"-","These figures are missing."
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Male"
+"measure    :","Claimants as a proportion of the workforce"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",8.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2021",8.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2021",8.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2021",8.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2021",8.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2021",7.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2021",7.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2021",6.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2021",6.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2021",6.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2021",6.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2021",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2022",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2022",5.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2022",5.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2022",5.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2022",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2022",4.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2022",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2022",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2022",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2022",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2023",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2023",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2023",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2023",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2023",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2023",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2023",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2023",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2023",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2023",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2023",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2023",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2024",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2024",4.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2024",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2024",4.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2024",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2024",4.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2024",5.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2024",5.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+
+
+"-","These figures are missing."
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Female"
+"measure    :","Claimant count"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",209790,5,32940,160,32780,14955,126765,29530,28235,25270,23010,20720,50080,19395,16330,12050,2300
+"February 2021",220180,10,33620,175,33445,15100,133745,30890,29705,26800,24385,21965,52815,20475,17255,12725,2360
+"March 2021",220935,5,33415,170,33245,15190,134115,30570,29745,27045,24645,22115,53395,20640,17400,12930,2425
+"April 2021",218285,5,32500,155,32345,14895,132415,29775,29205,26875,24500,22065,53365,20585,17390,12990,2400
+"May 2021",205990,5,29805,155,29655,13800,124900,27625,27480,25430,23335,21025,51275,19635,16685,12580,2375
+"June 2021",190575,5,26995,140,26855,12695,115110,25370,25335,23405,21500,19500,48470,18310,15825,11990,2340
+"July 2021",186845,5,25315,125,25190,12030,113640,24480,25025,23295,21440,19400,47890,18060,15645,11860,2325
+"August 2021",178885,5,23655,120,23530,11315,109265,23250,24070,22495,20775,18675,45965,17215,15035,11475,2240
+"September 2021",170510,5,22085,120,21965,10410,104325,22155,22845,21550,19960,17810,44095,16370,14460,11080,2185
+"October 2021",163825,0,20015,115,19900,9415,101370,21160,22270,21185,19505,17260,42435,15650,13940,10715,2130
+"November 2021",155725,0,18700,130,18570,8780,96130,19610,21210,20315,18595,16400,40895,14945,13380,10505,2070
+"December 2021",148885,0,17130,115,17015,8050,92060,18480,20300,19625,17920,15735,39690,14385,12990,10285,2035
+"January 2022",143670,0,15925,95,15825,7400,89160,17780,19505,19130,17420,15320,38585,13980,12550,10030,2030
+"February 2022",143620,5,15940,95,15850,7400,89555,17885,19725,19130,17500,15310,38120,13850,12350,9950,1970
+"March 2022",137835,0,15350,75,15275,7165,85650,16965,18950,18305,16845,14590,36830,13375,11885,9660,1910
+"April 2022",130655,0,14360,95,14270,6765,80925,16110,17730,17340,15970,13775,35365,12715,11415,9400,1835
+"May 2022",128070,0,13820,95,13725,6480,79490,15665,17390,17095,15710,13625,34765,12415,11280,9220,1845
+"June 2022",125805,0,13685,80,13605,6385,78060,15175,17095,16955,15580,13260,34055,12125,10945,9155,1835
+"July 2022",122765,0,14000,90,13910,6610,75865,14725,16530,16540,15200,12865,32905,11585,10625,8880,1810
+"August 2022",122805,0,14580,100,14480,6875,75580,14620,16480,16505,15125,12850,32640,11510,10475,8860,1800
+"September 2022",124505,0,15060,85,14975,7020,76925,14940,16670,16910,15440,12970,32520,11620,10355,8785,1760
+"October 2022",123910,0,15225,95,15130,7180,76635,14640,16625,16850,15575,12945,32050,11450,10115,8705,1775
+"November 2022",125180,0,15440,100,15340,7370,77295,14700,16755,17050,15625,13165,32445,11620,10160,8870,1795
+"December 2022",126350,0,15340,90,15245,7360,78315,14855,16880,17325,15955,13305,32695,11685,10260,8920,1830
+"January 2023",123160,0,14800,85,14710,7065,76465,14565,16475,17015,15455,12950,31900,11400,9960,8700,1840
+"February 2023",125100,0,15060,80,14980,7185,78245,14995,16905,17400,15820,13130,31795,11315,10015,8655,1805
+"March 2023",128830,0,15320,75,15245,7335,80745,15460,17325,17850,16500,13610,32765,11840,10240,8880,1800
+"April 2023",134170,0,15405,75,15330,7310,84710,15845,18205,18925,17405,14330,34055,12390,10665,9155,1845
+"May 2023",130250,0,15055,85,14970,7230,82055,15525,17675,18160,16810,13880,33135,11995,10370,8965,1805
+"June 2023",132480,0,15290,85,15200,7295,83680,15730,17965,18595,17290,14095,33510,12190,10415,9085,1825
+"July 2023",135770,0,15755,80,15675,7545,85720,16030,18150,19055,17825,14655,34295,12525,10635,9310,1830
+"August 2023",134615,0,16060,80,15975,7720,84515,15880,18040,18770,17410,14415,34040,12325,10690,9210,1815
+"September 2023",137860,0,16300,75,16225,7810,86975,16445,18320,19395,17930,14885,34585,12670,10860,9190,1865
+"October 2023",138200,0,16540,80,16460,8045,87120,16385,18245,19450,18105,14930,34540,12715,10805,9175,1845
+"November 2023",137055,0,16620,85,16535,8275,86180,16195,18035,19300,17885,14755,34260,12545,10700,9175,1840
+"December 2023",137490,0,16420,85,16340,8190,87065,16180,18200,19625,18155,14910,34000,12500,10615,9055,1830
+"January 2024",136525,0,16130,90,16040,7965,86320,16060,17940,19445,18005,14870,34070,12570,10545,9110,1850
+"February 2024",140340,0,16595,85,16515,8140,88870,16525,18180,19990,18625,15550,34875,12995,10830,9185,1865
+"March 2024",139980,0,16895,90,16805,8385,88530,16590,18045,19795,18610,15490,34555,12850,10775,9080,1850
+"April 2024",138295,0,16590,80,16510,8260,87585,16350,17750,19560,18475,15455,34115,12705,10590,9010,1810
+"May 2024",142245,0,16630,70,16555,8235,90520,16380,18205,20185,19485,16265,35095,13250,10860,9165,1820
+"June 2024",147755,5,16800,60,16740,8330,94440,16465,18565,21440,20640,17325,36510,13905,11310,9440,1855
+"July 2024",170925,0,17635,55,17580,8795,110930,17630,20940,25570,25460,21330,42360,16830,13040,10455,2040
+"August 2024",173195,0,18060,55,18005,9020,112060,17750,20815,25800,25880,21815,43075,17280,13190,10555,2055
+
+
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Female"
+"measure    :","Claimants as a proportion of residents aged 16-64"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",6.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2021",7.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2021",7.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2021",7.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2021",6.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2021",6.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2021",6.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2021",5.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2021",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2021",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2021",5.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2021",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2022",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2022",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2022",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2022",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2022",3.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2022",3.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2022",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2022",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2022",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2022",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2023",3.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2023",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2023",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2023",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2023",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2023",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2023",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2023",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2023",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2023",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2023",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2023",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2024",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2024",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2024",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2024",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2024",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2024",4.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2024",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2024",5.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+
+
+"-","These figures are missing."
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Female"
+"measure    :","Claimants as a proportion of economically active residents aged 16+"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2021",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2022",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2023",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2024",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+
+
+"-","These figures are missing."
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+
+
+
+
+
+
+
+"Claimant count by sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Gender     :","Female"
+"measure    :","Claimants as a proportion of the workforce"
+
+"Date","All categories: Age 16+","Age unknown (clerical claims)","Aged 16-24","Aged 16-17","Aged 18-24","Aged 18-21","Aged 25-49","Aged 25-29","Aged 30-34","Aged 35-39","Aged 40-44","Aged 45-49","Aged 50+","Aged 50-54","Aged 55-59","Aged 60-64","Aged 65+"
+
+"January 2021",6.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2021",7.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2021",7.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2021",7.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2021",6.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2021",6.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2021",6.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2021",5.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2021",5.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2021",5.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2021",5.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2021",4.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2022",4.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2022",4.4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2022",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2022",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2022",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2022",3.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2022",3.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2022",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2022",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2022",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2022",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2023",3.7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2023",3.8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2023",3.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2023",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2023",3.9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2023",4.0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2023",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2023",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"September 2023",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"October 2023",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"November 2023",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"December 2023",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"January 2024",4.1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"February 2024",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"March 2024",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"April 2024",4.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"May 2024",4.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"June 2024",4.5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"July 2024",5.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+"August 2024",5.2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+
+
+"-","These figures are missing."
+
+"","Commencing in May 2024, the Department for Work and Pensions are rolling out"
+"","an increase in the administrative earnings threshold for full work search"
+"","conditionality. This change is likely to affect around 180,000 claimants"
+"","over"
+"","a period of around 6 months, increasing the Claimant Count over that time."
+"",""
+
+"","Under Universal Credit a broader span of claimants are required to look for"
+"","work than under Jobseeker's Allowance. Therefore, as Universal Credit has been"
+"","rolled out, the number of people recorded as being on the Claimant Count rose."
+"",""
+
+"","This dataset only includes claimant records with information to sufficiently"
+"","classify them within the dataset. Totals from this dataset may not tally with"
+"","the total number of claim records shown elsewhere as a small number of records"
+"","do not have this information."
+"",""
+
+"","All data are rounded to the nearest 5 and may not precisely add to the sum of"
+"","the number of people claiming JSA, published on Nomis, and the number of"
+"","people claiming Universal Credit required to seek work, published by DWP, due to"
+"","independent rounding."
+"",""
+
+"","Rates for regions and countries from 2021 onwards are calculated using"
+"","the mid-2021 resident population aged 16-64"
+

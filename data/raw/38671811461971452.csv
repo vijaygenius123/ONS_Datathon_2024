@@ -1,0 +1,2615 @@
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","All persons"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",1248200,56200,449600,33700,457100,34000,341500,29400
+"Student",408200,32100,366200,30400,38200,9800,3800,"*"
+"Looking after family/home",296700,27400,10600,"*",217000,23400,69100,13200
+"Temporary sick",26700,8200,3800,"*",12800,5700,10200,5100
+"Long-term sick",223000,23800,15800,6300,96700,15600,110500,16700
+"Discouraged",10200,5100,3300,"*",4700,"*",2200,"*"
+"Retired",86500,14800,"!","!","!","!",86500,14800
+"Other",196800,22300,49800,11200,87800,14900,59200,12200
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","All persons"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",32.7,2.1,81.5,3.1,8.4,2.2,1.1,"*"
+"Looking after family/home",23.8,1.9,2.4,"*",47.5,4.0,20.2,3.0
+"Temporary sick",2.1,0.7,0.8,"*",2.8,1.3,3.0,1.3
+"Long-term sick",17.9,1.7,3.5,1.5,21.1,3.3,32.4,3.5
+"Discouraged",0.8,0.4,0.7,"*",1.0,"*",0.7,"*"
+"Retired",6.9,1.1,"!","!","!","!",25.3,3.3
+"Other",15.8,1.6,11.1,2.5,19.2,3.1,17.3,2.8
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","All persons"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",946100,48900,364700,30400,312700,28100,268700,26100
+"Student",342900,29500,313400,28200,28000,8400,1500,"*"
+"Looking after family/home",218300,23500,7000,"*",157100,19900,54300,11700
+"Temporary sick",15200,6200,2200,"*",5900,"*",7100,4200
+"Long-term sick",178400,21200,9200,"*",80100,14200,89000,15000
+"Discouraged",900,"!","!","!",900,"!","!","!"
+"Retired",83800,14600,"!","!","!","!",83800,14600
+"Other",106600,16400,32900,9100,40700,10200,33000,9100
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","All persons"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",75.8,1.9,81.1,3.1,68.4,3.7,78.7,3.1
+"Student",27.5,2.0,69.7,3.6,6.1,1.9,0.4,"*"
+"Looking after family/home",17.5,1.7,1.6,"*",34.4,3.8,15.9,2.7
+"Temporary sick",1.2,0.5,0.5,"*",1.3,"*",2.1,1.1
+"Long-term sick",14.3,1.6,2.0,"*",17.5,3.0,26.1,3.3
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",6.7,1.1,"!","!","!","!",24.5,3.2
+"Other",8.5,1.3,7.3,2.1,8.9,2.3,9.7,2.2
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","All persons"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",302100,27700,84900,14700,144400,19100,72800,13600
+"Student",65300,12900,52800,11600,10200,5100,2300,"*"
+"Looking after family/home",78300,14100,3600,"*",59900,12300,14800,6100
+"Temporary sick",11500,5400,1500,"!",6900,4200,3000,"*"
+"Long-term sick",44700,10600,6600,"*",16600,6500,21500,7400
+"Discouraged",9300,4900,3300,"*",3800,"*",2200,"*"
+"Retired",2800,"*","!","!","!","!",2800,"*"
+"Other",90200,15100,16900,6500,47100,10900,26200,8200
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","All persons"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",24.2,1.9,18.9,3.1,31.6,3.7,21.3,3.1
+"Student",5.2,1.0,11.7,2.6,2.2,1.2,0.7,"*"
+"Looking after family/home",6.3,1.1,0.8,"*",13.1,2.7,4.3,1.5
+"Temporary sick",0.9,0.4,"!","!",1.5,1.0,0.9,"*"
+"Long-term sick",3.6,0.8,1.5,"*",3.6,1.5,6.3,1.8
+"Discouraged",0.7,0.4,0.7,"*",0.8,"*",0.7,"*"
+"Retired",0.2,"*","!","!","!","!",0.8,"*"
+"Other",7.2,1.2,3.8,1.5,10.3,2.4,7.7,2.0
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Males"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",519300,36300,246800,25000,134400,18400,138000,18700
+"Student",222400,23700,198700,22400,20600,7200,3100,"*"
+"Looking after family/home",33700,9200,3200,"*",18200,6800,12400,5600
+"Temporary sick",9500,4900,1600,"!",5800,"*",2000,"*"
+"Long-term sick",113300,16900,9400,"*",53500,11600,50400,11300
+"Discouraged",5200,"*",900,"!",3700,"*",600,"!"
+"Retired",42800,10400,"!","!","!","!",42800,10400
+"Other",92400,15300,33100,9200,32500,9100,26900,8200
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Males"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",42.8,3.6,80.5,4.3,15.4,5.8,2.2,"*"
+"Looking after family/home",6.5,1.8,1.3,"*",13.5,5.6,9.0,3.4
+"Temporary sick",1.8,1.0,"!","!",4.3,"*",1.5,"*"
+"Long-term sick",21.8,3.0,3.8,"*",39.8,7.9,36.5,5.8
+"Discouraged",1.0,"*","!","!",2.8,"*","!","!"
+"Retired",8.2,2.0,"!","!","!","!",31.0,5.6
+"Other",17.8,2.8,13.4,3.7,24.2,6.9,19.5,4.8
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Males"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",406400,32100,202300,22600,94500,15500,109600,16700
+"Student",190800,22000,171600,20800,18400,6800,800,"!"
+"Looking after family/home",22300,7500,700,"!",13900,5900,7800,4400
+"Temporary sick",3800,"*",600,"!",2200,"*",1000,"*"
+"Long-term sick",96700,15600,7200,"*",46600,10900,42900,10400
+"Discouraged",900,"!","!","!",900,"!","!","!"
+"Retired",41800,10300,"!","!","!","!",41800,10300
+"Other",50200,11300,22300,7500,12500,5600,15400,6200
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Males"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",78.3,3.0,82.0,4.2,70.3,7.4,79.4,4.9
+"Student",36.7,3.5,69.5,5.0,13.7,5.6,"!","!"
+"Looking after family/home",4.3,1.5,"!","!",10.3,4.9,5.6,2.8
+"Temporary sick",0.7,"*","!","!",1.7,"*",0.7,"*"
+"Long-term sick",18.6,2.8,2.9,"*",34.6,7.7,31.1,5.6
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",8.0,2.0,"!","!","!","!",30.2,5.5
+"Other",9.7,2.1,9.0,3.1,9.3,4.7,11.1,3.8
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Males"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",112900,16900,44500,10600,39900,10100,28500,8500
+"Student",31600,8900,27100,8300,2200,"*",2300,"*"
+"Looking after family/home",11400,5400,2500,"!",4300,"*",4600,"*"
+"Temporary sick",5700,"*",1000,"!",3600,"*",1000,"!"
+"Long-term sick",16600,6500,2200,"!",7000,4200,7500,4400
+"Discouraged",4300,"*",900,"!",2800,"*",600,"!"
+"Retired",1000,"*","!","!","!","!",1000,"*"
+"Other",42300,10300,10800,5200,20000,7100,11500,5400
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Males"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",21.7,3.0,18.0,4.2,29.7,7.4,20.6,4.9
+"Student",6.1,1.7,11.0,3.4,1.6,"*",1.7,"*"
+"Looking after family/home",2.2,1.1,"!","!",3.2,"*",3.3,"*"
+"Temporary sick",1.1,"*","!","!",2.7,"*","!","!"
+"Long-term sick",3.2,1.3,"!","!",5.2,3.6,5.4,2.7
+"Discouraged",0.8,"*","!","!",2.1,"*","!","!"
+"Retired",0.2,"*","!","!","!","!",0.7,"*"
+"Other",8.1,2.0,4.4,2.2,14.9,5.8,8.3,3.3
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Females"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",728900,43000,202800,22700,322700,28600,203400,22700
+"Student",185900,21700,167600,20600,17600,6700,700,"!"
+"Looking after family/home",262900,25800,7500,"*",198800,22400,56700,12000
+"Temporary sick",17300,6600,2200,"*",7000,4200,8100,4500
+"Long-term sick",109700,16700,6500,"*",43100,10500,60100,12300
+"Discouraged",5000,"*",2400,"!",900,"*",1600,"*"
+"Retired",43800,10500,"!","!","!","!",43800,10500
+"Other",104400,16300,16700,6500,55300,11800,32400,9100
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Females"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",25.5,2.5,82.6,4.4,5.4,2.1,"!","!"
+"Looking after family/home",36.1,2.8,3.7,"*",61.6,4.5,27.9,4.3
+"Temporary sick",2.4,0.9,1.1,"*",2.2,1.3,4.0,1.9
+"Long-term sick",15.1,2.1,3.2,"*",13.4,3.1,29.6,4.4
+"Discouraged",0.7,"*","!","!",0.3,"*",0.8,"*"
+"Retired",6.0,1.4,"!","!","!","!",21.5,4.0
+"Other",14.3,2.0,8.2,3.2,17.1,3.5,15.9,3.5
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Females"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",539700,37000,162400,20300,218200,23500,159100,20100
+"Student",152100,19600,141800,19000,9600,4900,700,"!"
+"Looking after family/home",196000,22300,6300,"*",143200,19000,46500,10900
+"Temporary sick",11400,5400,1600,"!",3700,"*",6100,"*"
+"Long-term sick",81700,14400,2000,"*",33600,9200,46100,10800
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",42000,10300,"!","!","!","!",42000,10300
+"Other",56500,12000,10600,5200,28200,8500,17600,6700
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Females"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",74.0,2.5,80.1,4.7,67.6,4.3,78.2,4.0
+"Student",20.9,2.3,70.0,5.4,3.0,1.6,"!","!"
+"Looking after family/home",26.9,2.6,3.1,"*",44.4,4.6,22.9,4.0
+"Temporary sick",1.6,0.7,"!","!",1.1,"*",3.0,"*"
+"Long-term sick",11.2,1.8,1.0,"*",10.4,2.8,22.7,4.0
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",5.8,1.3,"!","!","!","!",20.6,3.9
+"Other",7.7,1.5,5.2,2.6,8.7,2.6,8.7,2.7
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Females"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",189200,21900,40300,10100,104500,16300,44400,10600
+"Student",33700,9200,25700,8100,8000,4500,"!","!"
+"Looking after family/home",66900,13000,1100,"!",55600,11900,10200,5100
+"Temporary sick",5800,"*",500,"!",3300,"*",2000,"*"
+"Long-term sick",28000,8400,4500,"*",9600,4900,14000,6000
+"Discouraged",5000,"*",2400,"!",900,"*",1600,"*"
+"Retired",1800,"*","!","!","!","!",1800,"*"
+"Other",47900,11000,6100,"*",27100,8300,14800,6100
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2020-Mar 2021"
+"Sex        :","Females"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",26.0,2.5,19.9,4.7,32.4,4.3,21.8,4.0
+"Student",4.6,1.2,12.7,3.9,2.5,1.4,"!","!"
+"Looking after family/home",9.2,1.7,"!","!",17.2,3.5,5.0,2.1
+"Temporary sick",0.8,"*","!","!",1.0,"*",1.0,"*"
+"Long-term sick",3.8,1.1,2.2,"*",3.0,1.6,6.9,2.4
+"Discouraged",0.7,"*","!","!",0.3,"*",0.8,"*"
+"Retired",0.2,"*","!","!","!","!",0.9,"*"
+"Other",6.6,1.4,3.0,"*",8.4,2.5,7.3,2.5
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","All persons"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",1255500,54900,442300,32600,440700,32500,372500,29900
+"Student",438900,32400,376000,30000,59800,12000,3100,"*"
+"Looking after family/home",292100,26500,10500,"*",205000,22200,76700,13600
+"Temporary sick",20500,7000,3100,"*",8800,4600,8600,4500
+"Long-term sick",244900,24200,21300,7100,87200,14500,136400,18100
+"Discouraged",3600,"*",800,"!","!","!",2700,"*"
+"Retired",81900,14000,"!","!",2000,"*",79900,13800
+"Other",173600,20400,30600,8600,77900,13700,65100,12500
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","All persons"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",35.0,2.1,85.0,2.8,13.6,2.7,0.8,"*"
+"Looking after family/home",23.3,1.8,2.4,"*",46.5,4.0,20.6,2.8
+"Temporary sick",1.6,0.6,0.7,"*",2.0,1.1,2.3,1.0
+"Long-term sick",19.5,1.7,4.8,1.7,19.8,3.2,36.6,3.4
+"Discouraged",0.3,"*","!","!","!","!",0.7,"*"
+"Retired",6.5,1.1,"!","!",0.5,"*",21.4,2.9
+"Other",13.8,1.5,6.9,2.0,17.7,3.0,17.5,2.7
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","All persons"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",1005500,49100,380600,30200,320000,27700,305000,27000
+"Student",373800,29900,332000,28200,39200,9700,2600,"*"
+"Looking after family/home",222600,23100,5700,"*",155000,19300,61800,12200
+"Temporary sick",10500,5000,2700,"*",4700,"*",3100,"*"
+"Long-term sick",204500,22100,19900,6900,69800,12900,114800,16600
+"Discouraged",1600,"!",800,"!","!","!",700,"!"
+"Retired",80200,13900,"!","!",2000,"*",78200,13700
+"Other",112500,16400,19400,6800,49300,10900,43800,10300
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","All persons"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",80.1,1.7,86.0,2.7,72.6,3.6,81.9,2.7
+"Student",29.8,2.0,75.1,3.4,8.9,2.3,0.7,"*"
+"Looking after family/home",17.7,1.7,1.3,"*",35.2,3.8,16.6,2.6
+"Temporary sick",0.8,0.4,0.6,"*",1.1,"*",0.8,"*"
+"Long-term sick",16.3,1.6,4.5,1.6,15.8,2.9,30.8,3.2
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",6.4,1.1,"!","!",0.5,"*",21.0,2.8
+"Other",9.0,1.2,4.4,1.6,11.2,2.5,11.8,2.2
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","All persons"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",249900,24500,61700,12200,120700,17000,67500,12700
+"Student",65100,12500,44000,10300,20600,7000,500,"!"
+"Looking after family/home",69600,12900,4700,"*",49900,10900,14900,6000
+"Temporary sick",10100,4900,"~","!",4100,"*",5500,3600
+"Long-term sick",40400,9800,1400,"!",17400,6500,21600,7200
+"Discouraged",2000,"*","!","!","!","!",2000,"*"
+"Retired",1700,"*","!","!","!","!",1700,"*"
+"Other",61100,12100,11200,5200,28600,8300,21300,7100
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"~","Estimate is less than 500"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","All persons"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",19.9,1.7,14.0,2.7,27.4,3.6,18.1,2.7
+"Student",5.2,1.0,9.9,2.4,4.7,1.7,"!","!"
+"Looking after family/home",5.5,1.0,1.1,"*",11.3,2.5,4.0,1.4
+"Temporary sick",0.8,0.4,"!","!",0.9,"*",1.5,0.8
+"Long-term sick",3.2,0.8,"!","!",4.0,1.6,5.8,1.6
+"Discouraged",0.2,"*","!","!","!","!",0.5,"*"
+"Retired",0.1,"*","!","!","!","!",0.5,"*"
+"Other",4.9,0.9,2.5,1.2,6.5,2.0,5.7,1.6
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Males"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",500900,34700,228700,23400,125600,17400,146600,18700
+"Student",224200,23200,195900,21700,27000,8000,1200,"*"
+"Looking after family/home",27800,8200,"!","!",15300,6100,12500,5500
+"Temporary sick",8500,4500,700,"!",3200,"*",4600,"*"
+"Long-term sick",118300,16800,13500,5700,40400,9800,64400,12400
+"Discouraged",800,"!",800,"!","!","!","!","!"
+"Retired",42800,10100,"!","!",1400,"!",41400,10000
+"Other",78600,13700,17600,6500,38400,9600,22500,7300
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Males"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",44.8,3.5,85.7,3.8,21.5,6.9,0.8,"*"
+"Looking after family/home",5.5,1.6,"!","!",12.2,5.5,8.5,3.2
+"Temporary sick",1.7,0.9,"!","!",2.5,"*",3.1,"*"
+"Long-term sick",23.6,3.0,5.9,2.6,32.1,7.8,43.9,5.6
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",8.5,2.0,"!","!","!","!",28.3,5.1
+"Other",15.7,2.6,7.7,2.9,30.6,7.7,15.4,4.1
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Males"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",399600,31000,198800,21800,84100,14200,116600,16700
+"Student",192100,21500,173900,20400,16900,6400,1200,"*"
+"Looking after family/home",15500,6100,"!","!",7000,4100,8500,4500
+"Temporary sick",3200,"*",700,"!",1800,"!",700,"!"
+"Long-term sick",99500,15500,13500,5700,34500,9100,51500,11100
+"Discouraged",800,"!",800,"!","!","!","!","!"
+"Retired",41900,10000,"!","!",1400,"!",40500,9900
+"Other",46500,10600,9800,4800,22500,7400,14200,5800
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Males"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",79.8,2.9,86.9,3.7,67.0,7.9,79.6,4.6
+"Student",38.3,3.5,76.1,4.6,13.5,5.7,0.8,"*"
+"Looking after family/home",3.1,1.2,"!","!",5.6,3.8,5.8,2.7
+"Temporary sick",0.6,"*","!","!","!","!","!","!"
+"Long-term sick",19.9,2.8,5.9,2.6,27.5,7.5,35.1,5.4
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",8.4,2.0,"!","!","!","!",27.6,5.1
+"Other",9.3,2.1,4.3,2.2,17.9,6.4,9.7,3.4
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Males"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",101300,15600,29900,8500,41500,10000,30000,8500
+"Student",32100,8800,22000,7300,10100,"*","!","!"
+"Looking after family/home",12200,5400,"!","!",8300,4500,3900,"*"
+"Temporary sick",5300,"*","!","!",1400,"!",3900,"*"
+"Long-term sick",18700,6700,"!","!",5800,"*",12900,5600
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",900,"*","!","!","!","!",900,"*"
+"Other",32100,8800,7900,4300,15900,6200,8300,4500
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Males"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",20.2,2.9,13.1,3.7,33.0,7.9,20.4,4.6
+"Student",6.4,1.7,9.6,3.2,8.0,"*","!","!"
+"Looking after family/home",2.4,1.1,"!","!",6.6,4.2,2.7,"*"
+"Temporary sick",1.1,"*","!","!","!","!",2.6,"*"
+"Long-term sick",3.7,1.3,"!","!",4.6,"*",8.8,3.2
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",0.2,"*","!","!","!","!",0.6,"*"
+"Other",6.4,1.7,3.4,2.0,12.6,5.6,5.7,2.6
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Females"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",754600,42500,213600,22600,315000,27500,225900,23300
+"Student",214700,22700,180100,20800,32800,8900,1900,"*"
+"Looking after family/home",264300,25200,10500,"*",189600,21300,64200,12400
+"Temporary sick",12000,5400,2400,"*",5600,3700,4000,3100
+"Long-term sick",126600,17400,7800,"*",46800,10600,72000,13100
+"Discouraged",2700,"*","!","!","!","!",2700,"*"
+"Retired",39100,9700,"!","!",700,"!",38500,9600
+"Other",95100,15100,13000,5600,39500,9700,42600,10100
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Females"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",28.5,2.5,84.3,4.2,10.4,2.8,0.8,"*"
+"Looking after family/home",35.0,2.6,4.9,"*",60.2,4.4,28.4,4.0
+"Temporary sick",1.6,0.7,1.1,"*",1.8,1.2,1.8,1.2
+"Long-term sick",16.8,2.1,3.6,"*",14.9,3.2,31.9,4.1
+"Discouraged",0.4,"*","!","!","!","!",1.2,"*"
+"Retired",5.2,1.2,"!","!","!","!",17.0,3.3
+"Other",12.6,1.8,6.1,2.7,12.5,3.0,18.9,3.5
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Females"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",606000,38100,181800,20900,235800,23800,188400,21300
+"Student",181700,20900,158100,19500,22200,7300,1400,"!"
+"Looking after family/home",207000,22300,5700,"*",148000,18800,53300,11300
+"Temporary sick",7300,4200,2000,"!",2900,"*",2400,"*"
+"Long-term sick",104900,15900,6300,"*",35200,9200,63300,12300
+"Discouraged",700,"!","!","!","!","!",700,"!"
+"Retired",38300,9600,"!","!",700,"!",37700,9500
+"Other",66000,12600,9600,4800,26700,8000,29700,8400
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Females"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",80.3,2.2,85.1,4.1,74.9,3.9,83.4,3.3
+"Student",24.1,2.4,74.0,5.0,7.1,2.3,"!","!"
+"Looking after family/home",27.4,2.5,2.7,"*",47.0,4.5,23.6,3.8
+"Temporary sick",1.0,0.5,"!","!",0.9,"*",1.0,"*"
+"Long-term sick",13.9,1.9,3.0,"*",11.2,2.9,28.0,4.0
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",5.1,1.2,"!","!","!","!",16.7,3.3
+"Other",8.7,1.6,4.5,2.4,8.5,2.5,13.1,3.0
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Females"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",148600,18900,31900,8700,79200,13800,37500,9500
+"Student",33000,8900,22000,7300,10500,5000,500,"!"
+"Looking after family/home",57300,11700,4700,"*",41600,10000,11000,5100
+"Temporary sick",4800,3400,"~","!",2700,"*",1600,"*"
+"Long-term sick",21600,7200,1400,"!",11600,5300,8600,4600
+"Discouraged",2000,"*","!","!","!","!",2000,"*"
+"Retired",800,"*","!","!","!","!",800,"*"
+"Other",29100,8300,3300,"*",12800,5500,13000,5600
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"~","Estimate is less than 500"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2021-Mar 2022"
+"Sex        :","Females"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",19.7,2.2,14.9,4.1,25.1,3.9,16.6,3.3
+"Student",4.4,1.1,10.3,3.5,3.3,1.6,"!","!"
+"Looking after family/home",7.6,1.5,2.2,"*",13.2,3.1,4.9,1.9
+"Temporary sick",0.6,0.4,"!","!",0.9,"*",0.7,"*"
+"Long-term sick",2.9,0.9,"!","!",3.7,1.7,3.8,1.7
+"Discouraged",0.3,"*","!","!","!","!",0.9,"*"
+"Retired",0.1,"*","!","!","!","!",0.4,"*"
+"Other",3.9,1.1,1.6,"*",4.0,1.8,5.7,2.1
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","All persons"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",1281300,62000,445100,36600,434500,36100,401700,34700
+"Student",425500,35700,379000,33700,43800,11500,2700,"*"
+"Looking after family/home",306500,30300,13500,6400,210300,25100,82700,15800
+"Temporary sick",32500,9900,800,"!",13200,6300,18500,7500
+"Long-term sick",247600,27300,20400,7800,89200,16400,138000,20300
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",103100,17600,"!","!",2800,"!",100300,17400
+"Other",166000,22300,31400,9700,75200,15000,59400,13400
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","All persons"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",33.2,2.3,85.1,3.0,10.1,2.8,0.7,"*"
+"Looking after family/home",23.9,2.1,3.0,1.5,48.4,4.7,20.6,3.1
+"Temporary sick",2.5,0.8,"!","!",3.0,1.6,4.6,1.6
+"Long-term sick",19.3,1.9,4.6,1.8,20.5,3.8,34.3,3.6
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",8.0,1.3,"!","!","!","!",25.0,3.3
+"Other",13.0,1.6,7.0,2.2,17.3,3.5,14.8,2.7
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","All persons"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",1061300,56400,384000,34000,336000,31800,341200,32000
+"Student",378500,33700,337000,31800,39300,10900,2200,"*"
+"Looking after family/home",245500,27100,8500,"*",160900,22000,76100,15100
+"Temporary sick",21600,8100,800,"!",8200,"*",12500,6100
+"Long-term sick",203600,24700,14800,6700,75600,15100,113200,18400
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",99300,17300,"!","!",2800,"!",96400,17000
+"Other",112800,18400,23000,8300,49100,12100,40800,11100
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","All persons"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",82.8,1.8,86.3,2.9,77.3,3.9,84.9,2.7
+"Student",29.5,2.2,75.7,3.6,9.1,2.7,0.6,"*"
+"Looking after family/home",19.2,1.9,1.9,"*",37.0,4.5,18.9,3.0
+"Temporary sick",1.7,0.6,"!","!",1.9,"*",3.1,1.3
+"Long-term sick",15.9,1.8,3.3,1.5,17.4,3.5,28.2,3.4
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",7.7,1.3,"!","!","!","!",24.0,3.3
+"Other",8.8,1.4,5.2,1.9,11.3,3.0,10.1,2.3
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","All persons"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",220000,25700,61100,13500,98500,17200,60500,13500
+"Student",47000,11900,42000,11200,4500,"*",500,"!"
+"Looking after family/home",61100,13500,5000,"*",49400,12200,6700,4500
+"Temporary sick",10900,5700,"!","!",4900,"*",6000,"*"
+"Long-term sick",43900,11500,5600,"*",13600,6400,24800,8600
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",3900,"*","!","!","!","!",3900,"*"
+"Other",53200,12600,8400,5000,26100,8900,18700,7500
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","All persons"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",17.2,1.8,13.7,2.9,22.7,3.9,15.1,2.7
+"Student",3.7,0.9,9.4,2.5,1.0,"*","!","!"
+"Looking after family/home",4.8,1.0,1.1,"*",11.4,3.0,1.7,1.0
+"Temporary sick",0.9,0.4,"!","!",1.1,"*",1.5,"*"
+"Long-term sick",3.4,0.9,1.3,"*",3.1,1.6,6.2,1.8
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",0.3,"*","!","!","!","!",1.0,"*"
+"Other",4.2,1.0,1.9,1.2,6.0,2.2,4.6,1.6
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Males"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",514500,39300,231600,26400,125100,19400,157700,21800
+"Student",220500,25700,199500,24500,19200,7600,1800,"!"
+"Looking after family/home",31800,9800,800,"!",19800,7700,11100,5800
+"Temporary sick",20500,7800,800,"!",5200,"*",14400,6600
+"Long-term sick",114400,18500,12000,"*",41500,11200,61000,13500
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",47100,11900,"!","!","!","!",47100,11900
+"Other",80200,15500,18500,7500,39400,10900,22300,8200
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Males"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",42.9,3.8,86.1,4.1,15.4,6.6,"!","!"
+"Looking after family/home",6.2,1.9,"!","!",15.9,6.7,7.0,3.2
+"Temporary sick",4.0,1.5,"!","!",4.2,"*",9.2,3.6
+"Long-term sick",22.2,3.2,5.2,"*",33.1,8.6,38.7,6.0
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",9.2,2.2,"!","!","!","!",29.9,5.7
+"Other",15.6,2.8,8.0,3.2,31.5,8.5,14.1,4.3
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Males"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",421800,35600,201500,24600,94800,16900,125500,19400
+"Student",194800,24200,175800,23000,17700,7300,1300,"!"
+"Looking after family/home",21200,8000,"!","!",12200,6100,9000,5200
+"Temporary sick",14400,6600,800,"!",2200,"*",11300,"*"
+"Long-term sick",97300,17100,12000,"*",37200,10600,48100,12000
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",44600,11600,"!","!","!","!",44600,11600
+"Other",49500,12200,12900,6200,25400,8700,11200,5800
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Males"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",82.0,3.0,87.0,4.0,75.7,7.9,79.6,5.0
+"Student",37.9,3.8,75.9,5.1,14.2,6.4,"!","!"
+"Looking after family/home",4.1,1.5,"!","!",9.8,5.4,5.7,2.9
+"Temporary sick",2.8,1.3,"!","!",1.8,"*",7.2,"*"
+"Long-term sick",18.9,3.0,5.2,"*",29.8,8.4,30.5,5.7
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",8.7,2.2,"!","!","!","!",28.3,5.6
+"Other",9.6,2.3,5.6,2.7,20.3,7.4,7.1,3.2
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Males"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",92700,16700,30100,9500,30400,9500,32200,9800
+"Student",25700,8800,23700,8400,1500,"!",500,"!"
+"Looking after family/home",10600,5600,800,"!",7600,"*",2100,"*"
+"Temporary sick",6100,"*","!","!",3000,"*",3100,"*"
+"Long-term sick",17200,7200,"!","!",4200,"*",13000,6200
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",2500,"*","!","!","!","!",2500,"*"
+"Other",30700,9600,5600,"*",14000,6500,11100,5800
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Males"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",18.0,3.0,13.0,4.0,24.3,7.9,20.4,5.0
+"Student",5.0,1.7,10.2,3.6,"!","!","!","!"
+"Looking after family/home",2.1,1.1,"!","!",6.1,"*",1.3,"*"
+"Temporary sick",1.2,"*","!","!",2.4,"*",2.0,"*"
+"Long-term sick",3.3,1.4,"!","!",3.4,"*",8.2,3.4
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",0.5,"*","!","!","!","!",1.6,"*"
+"Other",6.0,1.8,2.4,"*",11.2,5.8,7.0,3.2
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Females"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",766800,48000,213500,25300,309400,30500,243900,27100
+"Student",205000,24800,179500,23200,24600,8600,1000,"!"
+"Looking after family/home",274800,28700,12700,"*",190400,23900,71600,14700
+"Temporary sick",12000,6000,"!","!",8000,"*",4100,"*"
+"Long-term sick",133100,20000,8500,"*",47700,12000,76900,15200
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",56100,13000,"!","!",2800,"!",53200,12600
+"Other",85800,16000,12900,6200,35800,10400,37100,10600
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Females"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",26.7,2.7,84.1,4.4,8.0,2.9,"!","!"
+"Looking after family/home",35.8,3.0,6.0,"*",61.5,5.3,29.4,4.4
+"Temporary sick",1.6,0.8,"!","!",2.6,"*",1.7,"*"
+"Long-term sick",17.4,2.4,4.0,"*",15.4,3.9,31.5,4.5
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",7.3,1.6,"!","!","!","!",21.8,4.0
+"Other",11.2,2.0,6.0,2.9,11.6,3.5,15.2,3.5
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Females"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",639500,43800,182500,23400,241200,26900,215700,25400
+"Student",183700,23500,161200,22000,21600,8100,1000,"!"
+"Looking after family/home",224200,25900,8500,"*",148700,21100,67100,14200
+"Temporary sick",7200,"*","!","!",6000,"*",1200,"!"
+"Long-term sick",106400,17900,2800,"*",38400,10700,65100,14000
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",54600,12800,"!","!",2800,"!",51800,12500
+"Other",63300,13800,10000,5500,23700,8400,29600,9400
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Females"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",83.4,2.3,85.5,4.3,78.0,4.5,88.4,3.1
+"Student",24.0,2.6,75.5,5.2,7.0,2.8,"!","!"
+"Looking after family/home",29.2,2.8,4.0,"*",48.1,5.4,27.5,4.3
+"Temporary sick",0.9,"*","!","!",1.9,"*","!","!"
+"Long-term sick",13.9,2.1,1.3,"*",12.4,3.6,26.7,4.3
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",7.1,1.6,"!","!","!","!",21.2,4.0
+"Other",8.3,1.7,4.7,2.6,7.7,2.9,12.1,3.2
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Females"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",127400,19600,31000,9600,68100,14300,28200,9200
+"Student",21300,8000,18300,7400,3000,"*","!","!"
+"Looking after family/home",50500,12300,4200,"!",41700,11200,4600,"*"
+"Temporary sick",4800,"*","!","!",1900,"!",2900,"*"
+"Long-term sick",26800,9000,5600,"*",9300,"*",11800,6000
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",1400,"*","!","!","!","!",1400,"*"
+"Other",22500,8200,2800,"*",12100,6000,7600,4800
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2022-Mar 2023"
+"Sex        :","Females"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",16.6,2.3,14.5,4.3,22.0,4.5,11.6,3.1
+"Student",2.8,1.0,8.6,3.4,1.0,"*","!","!"
+"Looking after family/home",6.6,1.5,"!","!",13.5,3.7,1.9,"*"
+"Temporary sick",0.6,"*","!","!","!","!",1.2,"*"
+"Long-term sick",3.5,1.1,2.6,"*",3.0,"*",4.8,2.1
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",0.2,"*","!","!","!","!",0.6,"*"
+"Other",2.9,1.0,1.3,"*",3.9,2.1,3.1,1.7
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","All persons"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",1321100,74200,491000,45200,431400,42400,398700,40700
+"Student",453500,43500,402500,40900,46600,13900,4400,"*"
+"Looking after family/home",309500,35900,15400,"*",217500,30100,76700,17900
+"Temporary sick",28400,10900,2700,"*",15900,8100,9900,6400
+"Long-term sick",251400,32400,28200,10800,83300,18600,139900,24100
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",99900,20400,"!","!","!","!",99900,20400
+"Other",178300,27200,42200,13300,68200,16900,67900,16800
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","All persons"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",34.3,2.7,82.0,3.8,10.8,3.3,1.1,"*"
+"Looking after family/home",23.4,2.4,3.1,"*",50.4,5.3,19.2,3.5
+"Temporary sick",2.1,0.8,0.5,"*",3.7,2.0,2.5,1.4
+"Long-term sick",19.0,2.2,5.7,2.3,19.3,4.2,35.1,4.3
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",7.6,1.5,"!","!","!","!",25.1,3.9
+"Other",13.5,1.9,8.6,2.8,15.8,3.8,17.0,3.4
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","All persons"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",1097900,67600,411200,41400,339300,37600,347300,38000
+"Student",395000,40600,355500,38500,35100,12100,4400,"*"
+"Looking after family/home",251400,32400,13000,"*",173500,26900,65000,16400
+"Temporary sick",22600,9700,1800,"!",15000,7900,5700,"*"
+"Long-term sick",209400,29500,19400,9000,71700,17300,118300,22200
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",96200,20000,"!","!","!","!",96200,20000
+"Other",123300,22700,21500,9500,44000,13500,57800,15500
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","All persons"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",83.1,2.1,83.8,3.7,78.6,4.3,87.1,3.0
+"Student",29.9,2.6,72.4,4.4,8.1,2.9,1.1,"*"
+"Looking after family/home",19.0,2.2,2.6,"*",40.2,5.2,16.3,3.3
+"Temporary sick",1.7,0.7,"!","!",3.5,1.9,1.4,"*"
+"Long-term sick",15.8,2.1,4.0,1.9,16.6,3.9,29.7,4.1
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",7.3,1.5,"!","!","!","!",24.1,3.8
+"Other",9.3,1.6,4.4,2.0,10.2,3.2,14.5,3.2
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","All persons"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",223200,30500,79700,18200,92100,19600,51300,14600
+"Student",58500,15600,47000,14000,11500,"*","!","!"
+"Looking after family/home",58100,15600,2400,"!",44000,13500,11800,7000
+"Temporary sick",5800,"*",800,"!",800,"!",4100,"*"
+"Long-term sick",42000,13200,8800,"*",11600,7000,21600,9500
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",3700,"*","!","!","!","!",3700,"*"
+"Other",55000,15100,20700,9300,24200,10000,10100,6500
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","All persons"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",16.9,2.1,16.2,3.7,21.4,4.3,12.9,3.0
+"Student",4.4,1.2,9.6,2.9,2.7,"*","!","!"
+"Looking after family/home",4.4,1.2,"!","!",10.2,3.2,2.9,1.5
+"Temporary sick",0.4,"*","!","!","!","!",1.0,"*"
+"Long-term sick",3.2,1.0,1.8,"*",2.7,1.7,5.4,2.0
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",0.3,"*","!","!","!","!",0.9,"*"
+"Other",4.2,1.1,4.2,2.0,5.6,2.4,2.5,1.4
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Males"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",525000,46800,238000,31500,121900,22500,165000,26200
+"Student",208000,29400,185000,27800,20700,9300,2200,"*"
+"Looking after family/home",34300,12000,"!","!",12000,7100,22300,9600
+"Temporary sick",11600,7000,1800,"!",6000,"*",3800,"*"
+"Long-term sick",128600,23100,18500,8800,48200,14200,61900,16100
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",50600,14500,"!","!","!","!",50600,14500
+"Other",91900,19600,32700,11700,35000,12100,24200,10000
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Males"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",39.6,4.3,77.7,5.7,17.0,7.8,1.4,"*"
+"Looking after family/home",6.5,2.2,"!","!",9.9,6.2,13.5,4.7
+"Temporary sick",2.2,1.3,"!","!",4.9,"*",2.3,"*"
+"Long-term sick",24.5,3.8,7.8,3.7,39.5,10.2,37.5,6.6
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",9.6,2.6,"!","!","!","!",30.6,6.3
+"Other",17.5,3.3,13.7,4.7,28.7,9.4,14.7,4.8
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Males"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",430900,42400,196200,28600,87200,19000,147600,24800
+"Student",182000,27500,167900,26400,11900,"*",2200,"*"
+"Looking after family/home",28000,10800,"!","!",8400,"*",19600,9000
+"Temporary sick",10700,"*",1800,"!",6000,"*",2900,"*"
+"Long-term sick",104900,20900,12600,"*",40100,12900,52200,14700
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",48200,14200,"!","!","!","!",48200,14200
+"Other",57100,15400,13900,"*",20800,9300,22500,9700
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Males"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",82.1,3.4,82.4,5.2,71.5,9.4,89.4,4.2
+"Student",34.7,4.2,70.5,6.3,9.7,"*",1.4,"*"
+"Looking after family/home",5.3,2.0,"!","!",6.9,"*",11.9,4.4
+"Temporary sick",2.0,"*","!","!",4.9,"*",1.7,"*"
+"Long-term sick",20.0,3.5,5.3,"*",32.9,9.8,31.6,6.4
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",9.2,2.5,"!","!","!","!",29.2,6.2
+"Other",10.9,2.7,5.8,"*",17.0,7.8,13.6,4.7
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Males"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",94100,19800,41900,13200,34800,12000,17400,8500
+"Student",25900,10400,17100,8400,8800,"*","!","!"
+"Looking after family/home",6400,"*","!","!",3700,"*",2700,"!"
+"Temporary sick",900,"!","!","!","!","!",900,"!"
+"Long-term sick",23700,9900,5900,"*",8100,"*",9800,6400
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",2300,"*","!","!","!","!",2300,"*"
+"Other",34800,12000,18800,"*",14200,7700,1700,"*"
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Males"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",17.9,3.4,17.6,5.2,28.5,9.4,10.6,4.2
+"Student",4.9,1.9,7.2,3.6,7.2,"*","!","!"
+"Looking after family/home",1.2,"*","!","!",3.0,"*","!","!"
+"Temporary sick","!","!","!","!","!","!","!","!"
+"Long-term sick",4.5,1.8,2.5,"*",6.6,"*",5.9,3.2
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",0.4,"*","!","!","!","!",1.4,"*"
+"Other",6.6,2.2,7.9,"*",11.7,6.7,1.0,"*"
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Females"
+"Wants      :","Total"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",796100,57600,252900,32500,309500,35900,233600,31200
+"Student",245600,32000,217500,30100,25900,10400,2200,"*"
+"Looking after family/home",275200,33800,15400,"*",205400,29200,54400,15100
+"Temporary sick",16800,8400,800,"!",9900,"*",6100,"*"
+"Long-term sick",122800,22600,9800,"*",35100,12100,77900,18000
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",49400,14300,"!","!","!","!",49400,14300
+"Other",86400,19000,9500,"*",33200,11800,43700,13500
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Females"
+"Wants      :","Total"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",100.0,-,100.0,-,100.0,-,100.0,-
+"Student",30.8,3.4,86.0,5.0,8.4,3.4,0.9,"*"
+"Looking after family/home",34.6,3.5,6.1,"*",66.4,5.8,23.3,5.0
+"Temporary sick",2.1,1.1,"!","!",3.2,"*",2.6,"*"
+"Long-term sick",15.4,2.6,3.9,"*",11.3,3.9,33.4,5.6
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",6.2,1.8,"!","!","!","!",21.1,4.9
+"Other",10.8,2.3,3.7,"*",10.7,3.8,18.7,4.6
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+"-","These figures are missing."
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Females"
+"Wants      :","Does not want a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",667000,52700,215000,29900,252200,32400,199700,28800
+"Student",213000,29800,187600,27900,23200,9800,2200,"*"
+"Looking after family/home",223400,30500,13000,"*",165100,26200,45400,13700
+"Temporary sick",11900,7000,"!","!",9000,"*",2900,"*"
+"Long-term sick",104500,20900,6900,"*",31600,11500,66100,16600
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",48000,14100,"!","!","!","!",48000,14100
+"Other",66200,16600,7600,"*",23200,9800,35300,12100
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Females"
+"Wants      :","Does not want a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",83.8,2.7,85.0,5.1,81.5,4.8,85.5,4.2
+"Student",26.8,3.2,74.2,6.3,7.5,3.2,0.9,"*"
+"Looking after family/home",28.1,3.3,5.1,"*",53.3,6.1,19.4,4.7
+"Temporary sick",1.5,0.9,"!","!",2.9,"*",1.2,"*"
+"Long-term sick",13.1,2.5,2.7,"*",10.2,3.7,28.3,5.4
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",6.0,1.7,"!","!","!","!",20.5,4.8
+"Other",8.3,2.0,3.0,"*",7.5,3.2,15.1,4.3
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Females"
+"Wants      :","Wants a job"
+"measure    :","Count"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",129100,23200,37900,12600,57400,15500,33900,11900
+"Student",32600,11600,29900,11200,2700,"!","!","!"
+"Looking after family/home",51800,14700,2400,"!",40300,13000,9100,6100
+"Temporary sick",4900,"*",800,"!",800,"!",3200,"*"
+"Long-term sick",18300,8700,2900,"!",3500,"*",11800,7000
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",1400,"*","!","!","!","!",1400,"*"
+"Other",20200,9200,1900,"!",10000,6400,8300,5900
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
+
+
+
+
+
+
+"annual population survey - regional - economic inactivity by reasons"
+"ONS Crown Copyright Reserved [from Nomis on 11 September 2024]"
+"Analysis   :","standard"
+"Area Type  :","regions"
+"Area Name  :","London"
+"Date       :","Apr 2023-Mar 2024"
+"Sex        :","Females"
+"Wants      :","Wants a job"
+"measure    :","Percent"
+"Confidence :","95% confidence interval (+/-)"
+
+"Einact","Aged 16-64","Conf","Aged 16-24","Conf","Aged 25-49","Conf","Aged 50-64","Conf"
+
+"Total",16.2,2.7,15.0,5.1,18.5,4.8,14.5,4.2
+"Student",4.1,1.4,11.8,4.6,"!","!","!","!"
+"Looking after family/home",6.5,1.8,"!","!",13.0,4.1,3.9,2.3
+"Temporary sick",0.6,"*","!","!","!","!",1.4,"*"
+"Long-term sick",2.3,1.1,"!","!",1.1,"*",5.1,2.6
+"Discouraged","!","!","!","!","!","!","!","!"
+"Retired",0.2,"*","!","!","!","!",0.6,"*"
+"Other",2.5,1.2,"!","!",3.2,2.2,3.6,2.2
+
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
